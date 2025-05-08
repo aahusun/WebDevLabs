@@ -71,7 +71,7 @@ function greetingFunc() {
    } else if (h>=18 && h<20) {
        E.innerHTML="Good evening, I am Aaron HuSun";
    } else  {
-       E.innerHTML="Good night, I am Aaron HSun";
+       E.innerHTML="Good night, I am Aaron HuSun";
    } }
 //greetingFunc();
 var L = window.location.href;
